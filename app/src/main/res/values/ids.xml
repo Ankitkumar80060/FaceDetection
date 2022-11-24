@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="view_info_kids" type="id" />
+    <item name="title_card" type="id" />
+    <item name="number_view" type="id" />
+    <item name="number_kids" type="id" />
+    <item name="number_adults" type="id" />
+    <item name="view_info_adults" type="id" />
+</resources>
